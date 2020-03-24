@@ -1,0 +1,25 @@
+{
+  "name": "jonigma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "node .": "node run index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelenc/jonigma.git"
+  },
+  "author": "Aurèle Nicolas, Matéo Le Marquand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aurelenc/jonigma/issues"
+  },
+  "homepage": "https://github.com/aurelenc/jonigma#readme",
+  "dependencies": {
+    "mathjs": "^6.6.1",
+    "node": "^13.11.0",
+    "sqlite3": "^4.1.1"
+  }
+}
